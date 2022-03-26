@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
   <br><br>
   <samp>
@@ -8,7 +8,7 @@
 
 
 <img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
-
+ -->
 
 
 <!-- ## :pencil2: My Works: :trophy:       
@@ -37,4 +37,4 @@
 -----
 Credits: [vimalverma558](https://github.com/vimalverma558) -->
 
-Last Edited on: 03/09/2020
+<!-- Last Edited on: 03/09/2020 -->
