@@ -13,16 +13,14 @@
 
 
 
-## :pencil2: My Works: :trophy:       
-- [Letskhabar](https://letskhabar.com)
-- [Vimal](https://vimal.letskhabar.com)
-- [IIITians-Network Ranchi](https://ranchi.iiitiansnetwork.com/)
-- [Covid-19](https://covid-19.letskhabar.com/)
-- [Letskhabar Dev](https://dev.letskhabar.com)
-- [Bob](https://github.com/vimalverma558/Bob)
-- ### :robot: Open Source Packages :octocat:
-  - prime-num is javascript packages for find primes number [Prime-num](https://www.npmjs.com/package/prime-num)
-  - Rive_design is Flutter Packages for Rive(Flare) [Rive_design](https://pub.dev/packages/rive_design)
+## :pencil2: About Me:     
+* 🧠 <b> I'm learning MERN stack</b>
+* 🔭 <b>I’m currently working on Frontend & Backend</b>
+* 🌱 <b>I’m currently learning MERN Stack</b>
+* 👯 <b>I’m looking to collaborate on LinkdIn & Github</b>
+* 💬 <b>Ask me about any MERN related stuff</b>
+* ⚡ <b>Fun fact: Life is so much easier when you just chill out.</b>
+ <br>
 
  ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
