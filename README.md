@@ -45,6 +45,17 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </span>
 
+
+## 📊 My Github Stats
+
+<br/>
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=rasheed8123&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=84cc16&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="rasheed8123's GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasheed8123&langs_count=10&title_color=14b8a6&text_color=84cc16&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+ </p> 
+  <br/>
+
 ## Connect with me 🚀
 
 <div align="center">
