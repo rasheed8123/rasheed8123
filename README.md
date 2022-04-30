@@ -20,7 +20,7 @@
 * 👯 <b>I’m looking to collaborate on LinkdIn & Github</b>
 * 💬 <b>Ask me about any MERN related stuff</b>
 * ⚡ <b>Fun fact: Life is so much easier when you just chill out.</b>
-* <a href="#"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"  ></a>
+* <a href="rasheedahmedportfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"  ></a>
  <br>
 
  ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
